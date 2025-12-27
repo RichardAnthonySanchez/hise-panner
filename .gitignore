@@ -1,8 +1,8 @@
 # HISE .gitignore
 
-
 # Project files
-!*.hip
+./Presets
+*.hip
 !*.glsl
 
 # User Presets
