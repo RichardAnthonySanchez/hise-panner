@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptSlider" id="panner" x="90.0" y="150.0" processorId="Script FX1"
+             parameterId="pan" defaultValue="0.5"/>
+</ContentProperties>
